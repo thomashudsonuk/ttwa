@@ -5,7 +5,7 @@
 The purpose of this repository is to provide a transparent process for generating UK Census Travel to Work Areas (TTWAs) based on the Office for National Statistics (ONS) and Newcastle University methodology [used to generate the 2011 TTWAs](https://geoportal.statistics.gov.uk/datasets/ons::travel-to-work-areas-2011-guidance-and-information/about).
 
 ## Algorithm
-![image](https://github.com/thomashudsonuk/ttwa/assets/5777564/5211184d-e05d-4d67-8f5e-73178055debe)
+![image](https://github.com/thomashudsonuk/ttwa/assets/5777564/844c5d07-9616-4484-ae83-4fccf2336a54)
 From page 14 of [Travel-to-Work Areas: the 2007 review](https://www.ncl.ac.uk/media/wwwnclacuk/curds/files/TTWA%20report.pdf).
 
 ## Data
